@@ -50,7 +50,7 @@ header {
     color: inherit;
     padding: 0;
     letter-spacing: 1.2;
-    padding-top: 10px;
+    padding-top: 30px;
 }
 
 .menu-list .menu-list-item-active {
@@ -84,6 +84,7 @@ header {
     line-height: 24px;
     width: 400px;
     border: 1px;
+    padding-top: 15px;
 }
 
 .address-text {
@@ -146,11 +147,12 @@ header {
     line-height: 1.27;
     text-transform: uppercase;
     word-spacing: 18px;
+    margin-top: 5px;
   }
   
   .bet-button {
     border: 1px #FFF solid;
-    padding: 14px 32px;
+    padding: 10px 32px;
     color: #FFF;
     font-family: 'Raleway', sans-serif;
     font-weight: normal;
@@ -167,6 +169,7 @@ header {
   }
 
 .otn-block {
+    padding-top: 30px;
     display: flex;
     flex-direction: column;
     width: 1100px;
@@ -206,7 +209,7 @@ header {
 }
 
 h2 {
-    margin: 30px auto;
+    margin: 45px auto;
     padding-left: 4%;
     font-size: 40px;
     font-weight: 700;
@@ -239,7 +242,7 @@ h2 {
 
 .card-item__title {
     margin: 50px 40px;
-    margin-bottom: 0;
+    
     font-weight: bold;
     font-size: 22px;
     line-height: 1.2;
@@ -333,7 +336,7 @@ h2 {
 }
 
 .about-section-article__text {
-    padding-top: 10px;
+    padding-top: 20px;
     font-size: 20px;
     font-weight: 400;
     line-height: 24px;
@@ -342,7 +345,7 @@ h2 {
 footer {
     display: flex;
     justify-content: space-between;
-    padding: 160px 50px 80px 50px;
+    padding: 140px 50px 80px 50px;
 
 }
 
